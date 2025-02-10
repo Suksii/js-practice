@@ -8,3 +8,5 @@ const reverseNumber = (num) => {
 };
 
 console.log(reverseNumber(213215));
+console.log(reverseNumber(-213215));
+console.log(reverseNumber(2150));
